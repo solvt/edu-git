@@ -1,3 +1,3 @@
 # edu-git
  
-Repository fo Just Enough Git mod
+Repository fo Just Enough Git
